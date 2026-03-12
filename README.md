@@ -3,8 +3,13 @@
 Reliable long-audio transcription toolkit for FunASR.
 FunASR 长音频稳定转录工具。
 
+[![License](https://img.shields.io/github/license/naplesblue/funasr-long-audio)](https://github.com/naplesblue/funasr-long-audio/blob/main/LICENSE)
+[![Python](https://img.shields.io/pypi/pyversions/funasr-long-audio-safe)](https://pypi.org/project/funasr-long-audio-safe/)
+[![PyPI](https://img.shields.io/pypi/v/funasr-long-audio-safe)](https://pypi.org/project/funasr-long-audio-safe/)
+
 - EN docs: [English](#english)
 - 中文文档: [中文](#中文)
+- Release checklist / 发布清单: [docs/release-checklist.md](./docs/release-checklist.md)
 
 ---
 
@@ -117,6 +122,10 @@ Not included:
 - LLM summarization/extraction
 - Obsidian sync logic
 
+### Release Checklist
+
+See [docs/release-checklist.md](./docs/release-checklist.md).
+
 ### License
 
 MIT
@@ -220,6 +229,10 @@ FUNASR_DEVICE=cpu
 - YouTube 下载
 - LLM 摘要/提取
 - Obsidian 同步
+
+### 发布清单
+
+请参考 [docs/release-checklist.md](./docs/release-checklist.md)。
 
 ### 致谢
 
